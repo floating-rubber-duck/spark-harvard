@@ -1,0 +1,1004 @@
+2025.10.29 18:04:26 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2025.10.29 18:04:27 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:04:28 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:07:09 INFO  Shutting down server
+2025.10.29 18:07:09 INFO  shutting down Metals
+2025.10.29 18:07:09 INFO  Exiting server
+2025.10.29 18:07:09 ERROR Unexpected error initializing server: 
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:204)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:840)
+
+2025.10.29 18:08:26 INFO  Started: Metals version 1.6.3 in folders '/Users/zacharygacer/Documents/python_de/spark-harvard' for client Visual Studio Code 1.85.2.
+2025.10.29 18:08:26 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2025.10.29 18:08:26 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:08:27 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:08:42 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:08:42 WARN  no build target for: /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:08:54 WARN  no build target for: /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:08:54 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:08:54 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:09:01 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:09:01 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:09:01 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:09:01 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:09:01 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:09:01 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:09:02 WARN  no build target for: /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:09:02 INFO  skipping build import with status 'Dismissed'
+2025.10.29 18:09:02 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:09:02 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:09:02 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:09:02 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:09:02 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:09:02 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:09:03 WARN  no build target for: /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:09:03 INFO  skipping build import with status 'Dismissed'
+2025.10.29 18:09:03 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:09:03 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:10:22 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:22 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:22 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:22 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:22 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:22 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:22 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:22 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:22 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:10:22 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:22 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:23 WARN  no build target for: /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:10:23 INFO  skipping build import with status 'Dismissed'
+2025.10.29 18:10:23 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:23 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:10:26 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:26 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:26 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:26 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:26 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:26 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:26 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:26 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:10:26 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:26 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:26 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:27 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:27 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:27 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:26 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:26 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:10:27 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:27 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:27 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:27 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:28 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:28 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:10:27 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:28 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:28 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:28 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:29 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:29 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:10:28 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:29 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:28 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:28 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:28 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:29 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:29 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:10:30 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:30 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:30 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:30 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:30 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:30 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:30 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:30 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:10:30 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:31 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:31 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:31 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:31 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:31 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:31 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:31 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:32 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:32 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:10:31 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:31 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:31 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:31 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:31 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:31 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:32 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:32 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:10:32 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:32 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:32 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:32 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:32 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:32 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:32 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:32 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:33 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:33 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:10:32 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:32 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:33 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:33 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:33 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:10:34 WARN  no build target for: /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:10:34 INFO  skipping build import with status 'Dismissed'
+2025.10.29 18:10:34 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:34 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:10:36 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:36 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:36 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:37 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:37 INFO  Created report: Optional[file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt]
+2025.10.29 18:10:37 INFO  empty definition using pc, found symbol in pc:  (full report at: "/Users/zacharygacer/Documents/python_de/spark-harvard/.metals/.reports/metals-full/2025-10-29/r_empty-definition_18-10-37-334.md")
+2025.10.29 18:10:36 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:37 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:37 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:10:38 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:38 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:38 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:38 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:10:38 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:38 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:38 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:39 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:38 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:38 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:10:39 WARN  no build target for: /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:10:39 INFO  skipping build import with status 'Dismissed'
+2025.10.29 18:10:39 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:39 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:10:41 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:41 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:41 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:41 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:41 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:10:42 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:42 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:42 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:10:42 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:42 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:43 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:43 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:10:43 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:42 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:43 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:43 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:43 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:43 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:43 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:10:43 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:43 WARN  no build target for: /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:10:44 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:44 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:10:45 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:45 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:45 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:10:45 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:45 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:45 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:10:45 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:45 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:46 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:46 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:10:46 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:46 WARN  no build target for: /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:10:46 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:46 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:10:46 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:48 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:48 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:48 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:48 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:10:49 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:49 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:49 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:49 WARN  no build target for: /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:10:49 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:49 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:10:49 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:49 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:49 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:49 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:10:49 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:50 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:50 WARN  no build target for: /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:10:50 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:50 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:10:51 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:51 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:51 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:51 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:51 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:10:51 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:52 WARN  no build target for: /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:10:51 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:51 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:10:52 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:52 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:52 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:52 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:10:53 WARN  no build target for: /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:10:53 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:53 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:10:53 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:53 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:54 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:54 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:54 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:10:53 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:54 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:54 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:54 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:10:53 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:53 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:53 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:53 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:55 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:55 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:55 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:10:55 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:55 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:55 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:55 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:55 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:55 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:10:56 WARN  no build target for: /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:10:56 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:56 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:10:56 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:56 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:55 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:56 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:56 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:56 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:56 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:10:56 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:56 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:56 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:56 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:56 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:56 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:56 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:56 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:56 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:10:56 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:58 WARN  no build target for: /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:10:58 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:58 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:10:59 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:59 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:10:59 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:11:00 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:11:00 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:11:00 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:11:01 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:11:01 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:11:01 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:11:01 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:11:01 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:11:01 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:11:01 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:11:01 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:11:02 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:11:02 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:11:01 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:11:02 WARN  no build target for: /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:11:02 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:11:02 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:11:03 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:11:03 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:11:03 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:11:03 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:11:03 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:11:03 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:11:04 WARN  no build target for: /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:11:04 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:11:04 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:11:04 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:11:04 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:11:04 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:11:05 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:11:05 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:11:04 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:11:05 WARN  no build target for: /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:11:05 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:11:05 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:11:06 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:11:06 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:11:06 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:11:06 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:11:07 WARN  no build target for: /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:11:07 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:11:07 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:11:07 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:11:07 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:11:07 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:11:07 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:11:07 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:11:08 WARN  no build target for: /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:11:08 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:11:08 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:11:09 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:11:09 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:11:09 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:11:09 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:11:09 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:11:09 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:11:09 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:11:09 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:11:10 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:11:10 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:11:10 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:11:10 WARN  no build target for: /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:11:10 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:11:10 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:11:12 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:11:12 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:11:12 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:11:12 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:11:12 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:11:12 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:11:12 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:11:12 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:11:13 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:11:12 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:11:12 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:11:13 WARN  no build target for: /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:11:13 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:11:13 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:11:14 WARN  no build target for: /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:11:13 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:11:13 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:12:57 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:12:58 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:12:58 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:12:58 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:12:58 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:12:59 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:12:59 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:12:59 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:12:59 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:00 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:00 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:00 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:13:01 WARN  no build target for: /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:13:00 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:00 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:13:01 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:01 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:01 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:01 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:13:01 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:02 WARN  no build target for: /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:13:02 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:02 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:13:03 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:03 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:03 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:13:03 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:03 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:03 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:03 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:03 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:13:04 WARN  no build target for: /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:13:03 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:03 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:13:06 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:06 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:06 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:13:06 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:06 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:06 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:13:06 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:07 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:07 WARN  no build target for: /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:13:07 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:07 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:13:07 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:08 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:08 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:08 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:08 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:08 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:13:09 WARN  no build target for: /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:13:09 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:09 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:13:10 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:12 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:12 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:13 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:13 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:13:13 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:13 WARN  no build target for: /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:13:13 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:13 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:13:43 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:43 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:43 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:43 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:44 WARN  no build target for: /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:13:44 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:44 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:13:44 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:44 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:44 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:44 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:44 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:13:45 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:45 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:45 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:13:45 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:45 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:45 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:13:46 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:46 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:46 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:13:46 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:46 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:46 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:47 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:47 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:13:46 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:48 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:48 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:48 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:13:48 WARN  no build target for: /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:13:48 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:48 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:13:48 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:48 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:50 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:50 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:51 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:51 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:13:51 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:51 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:51 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:51 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:52 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:52 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:13:52 WARN  no build target for: /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:13:52 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:52 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:13:51 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:53 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:53 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:53 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:55 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:55 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:55 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:55 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:55 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:13:55 WARN  no build target for: /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:13:55 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:55 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:13:57 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:57 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:57 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:58 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:58 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:58 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:13:57 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:58 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:59 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:59 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:13:59 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:59 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:59 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:59 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:00 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:00 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:13:59 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:13:59 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:00 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:00 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:00 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:14:01 WARN  no build target for: /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:14:00 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:00 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:14:01 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:01 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:01 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:01 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:01 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:14:02 WARN  no build target for: /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:14:01 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:01 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:14:02 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:02 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:02 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:02 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:14:03 WARN  no build target for: /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:14:03 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:03 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:14:03 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:03 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:03 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:04 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:04 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:14:03 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:03 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:03 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:04 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:04 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:14:05 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:05 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:05 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:14:05 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:05 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:06 WARN  no build target for: /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:14:06 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:06 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:14:06 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:06 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:06 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:06 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:06 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:06 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:06 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:06 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:06 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:14:06 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:06 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:06 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:06 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:06 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:06 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:06 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:06 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:06 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:07 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:06 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:07 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:14:07 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:07 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:08 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:08 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:08 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:14:07 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:07 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:07 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:08 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:08 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:14:08 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:09 WARN  no build target for: /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:14:09 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:09 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:14:11 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:11 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:12 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:12 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:11 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:11 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:12 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:12 INFO  empty definition using pc, found symbol in pc:  (full report at: "/Users/zacharygacer/Documents/python_de/spark-harvard/.metals/.reports/metals-full/2025-10-29/r_empty-definition_18-10-37-334.md")
+2025.10.29 18:14:11 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:12 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:12 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:14:13 WARN  no build target for: /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:14:12 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:12 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:14:13 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:13 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:14 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:14 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:14 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:14:14 WARN  no build target for: /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:14:14 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:14 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:14:15 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:18 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:18 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:18 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:18 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:18 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:19 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:19 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:14:19 WARN  no build target for: /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:14:19 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:19 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:14:19 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:21 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:21 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:21 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:21 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:21 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:21 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:21 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:14:21 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:22 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:22 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:22 WARN  no build target for: /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:14:22 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:22 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:14:22 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:22 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:22 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:23 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:23 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:23 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:14:23 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:23 WARN  no build target for: /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:14:23 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:23 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:14:24 WARN  no build target for: /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:14:23 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:23 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:14:24 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:25 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:25 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:25 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:14:24 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:24 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:26 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:26 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:26 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:14:26 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:26 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:26 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:14:26 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:26 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:26 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:26 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:26 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:14:27 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:27 WARN  no build target for: /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:14:27 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:27 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:14:28 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:28 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:28 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:28 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:14:28 WARN  no build target for: /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:14:28 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:14:28 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:15:05 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:05 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:05 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:06 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:06 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:06 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:15:06 WARN  no build target for: /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:15:06 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:06 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:15:11 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:14 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:14 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:15 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:15 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:15 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:15 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:15 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:15:16 WARN  no build target for: /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:15:16 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:16 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:15:18 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:18 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:18 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:18 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:19 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:19 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:19 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:20 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:20 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:20 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:15:21 WARN  no build target for: /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:15:21 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:21 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:15:21 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:21 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:21 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:22 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:22 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:15:21 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:21 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:22 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:22 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:22 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:15:23 WARN  no build target for: /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:15:22 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:22 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:15:25 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:25 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:25 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:25 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:15:25 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:25 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:25 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:25 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:25 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:15:25 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:26 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:26 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:26 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:15:26 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:26 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:26 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:15:27 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:27 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:27 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:27 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:27 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:15:27 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:28 WARN  no build target for: /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:15:27 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:27 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:15:30 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:30 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:30 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:30 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:15:30 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:30 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:30 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:31 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:30 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:30 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:15:31 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:31 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:31 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:31 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:31 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:15:31 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:32 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:32 WARN  no build target for: /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:15:32 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:32 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:15:33 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:33 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:33 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:33 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:33 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:15:33 WARN  no build target for: /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:15:33 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:33 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:15:34 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:34 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:34 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:34 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:15:34 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:35 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:34 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:34 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:35 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:35 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:35 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:15:35 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:35 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:36 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:35 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:35 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:15:36 WARN  no build target for: /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:15:36 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:15:36 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:19:51 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:19:51 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:19:51 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:19:52 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:19:53 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:19:52 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:19:52 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:19:53 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:19:53 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:19:52 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:19:52 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:19:53 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:19:53 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:19:53 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:19:54 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:19:53 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:19:54 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:19:54 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:19:54 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:19:55 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:19:55 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:19:55 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:19:55 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:19:55 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:19:55 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:19:55 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:19:55 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:19:55 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:19:55 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:19:55 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:19:55 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:19:56 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:19:56 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:19:56 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:19:56 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:19:56 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:19:56 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:19:57 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:19:57 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:19:56 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:19:56 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:19:57 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:19:57 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:19:57 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:19:57 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:19:58 WARN  no build target for: /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:19:58 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:19:58 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:19:59 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:19:59 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:19:59 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:19:59 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:19:59 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:19:59 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:19:59 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:19:59 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:19:59 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:19:59 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:19:59 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:19:59 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:19:59 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:19:59 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:00 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:00 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:00 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:00 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:00 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:00 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:20:00 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:00 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:00 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:00 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:00 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:00 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:01 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:01 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:20:01 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:01 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:01 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:01 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:01 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:20:01 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:01 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:01 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:02 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:02 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:20:02 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:02 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:02 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:02 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:02 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:02 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:20:02 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:03 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:03 WARN  no build target for: /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:20:03 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:03 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:20:04 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:04 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:04 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:04 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:05 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:05 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:05 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:20:05 WARN  no build target for: /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:20:05 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:05 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:20:06 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:09 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:10 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:10 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:10 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:20:09 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:10 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:10 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:10 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:20:11 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:11 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:11 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:11 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:11 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:11 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:11 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:20:11 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:11 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:12 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:12 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:20:12 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:12 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:12 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:12 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:12 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:20:12 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:12 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:13 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:13 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:20:13 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:12 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:14 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:14 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:14 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:14 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:14 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:14 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:20:14 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:15 WARN  no build target for: /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:20:15 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:15 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:20:15 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:15 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:15 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:15 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:15 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:20:15 WARN  no build target for: /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:20:16 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:16 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:20:39 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:39 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:41 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:41 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:41 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:42 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:42 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:43 WARN  no build target for: /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:20:43 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:42 WARN  no build target for: /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:20:42 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:44 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:44 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:46 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:46 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:46 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:46 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:46 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:47 WARN  no build target for: /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:20:46 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:47 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:47 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:47 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:49 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:49 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:49 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:49 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:50 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:50 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:20:50 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:24:53 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:25:34 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:25:34 WARN  no build target for: /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/project/plugins.sbt
+2025.10.29 18:25:34 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:25:34 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/project/plugins.sbt
+2025.10.29 18:25:34 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:25:34 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:25:34 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/project/plugins.sbt
+2025.10.29 18:25:38 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:25:38 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:25:39 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:25:39 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:25:39 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/project/plugins.sbt
+2025.10.29 18:25:39 WARN  no build target for: /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/project/plugins.sbt
+2025.10.29 18:25:39 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:25:39 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/project/plugins.sbt
+2025.10.29 18:25:39 WARN  no build target for: /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/project/plugins.sbt
+2025.10.29 18:25:39 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:25:39 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/project/plugins.sbt
+2025.10.29 18:25:45 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:26:08 WARN  no build target for: /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.29 18:26:08 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:26:08 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:26:08 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:26:31 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/src/bronze/bronze.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:26:31 WARN  no build target for: /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/src/bronze/bronze.scala
+2025.10.29 18:26:31 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/src/bronze/bronze.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:26:31 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/src/bronze/bronze.scala
+2025.10.29 18:26:31 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/src/bronze/bronze.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:26:31 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/src/bronze/bronze.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.29 18:26:31 WARN  Could not find semantic tokens for: file:///Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/src/bronze/bronze.scala
