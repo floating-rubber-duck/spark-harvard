@@ -1,0 +1,9 @@
+# build artifacts
+data-pipelines/target/**
+*.jar
+
+# local data
+data-pipelines/data/**
+
+# keep a placeholder so the folders exist
+!data-pipelines/data/.gitkeep

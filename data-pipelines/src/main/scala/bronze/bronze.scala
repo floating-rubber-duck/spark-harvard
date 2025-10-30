@@ -1,29 +1,13 @@
 package bronze
-import org.apache.spark.sql.SparkSession
-import org.apache.spark.sql.functions._
+
+import org.apache.spark.sql.{DataFrame, SparkSession, functions => F}
+import org.apache.spark.sql.types._
+import java.time.Instant
+import java.util.UUID
 
 object BronzeApp {
-  def main(args: Array[String]): Unit = {
-    val spark = SparkSession.builder()
-      .appName("BronzeIngestion")
-      .master("local[*]")
-      .getOrCreate()
 
-    println("✅ Bronze stage started")
-
-    // Sample dataset for testing
-    import spark.implicits._
-    val df = Seq(
-      ("2025-01-01", "Manhattan", 25.5),
-      ("2025-01-01", "Queens", 17.0)
-    ).toDF("date", "borough", "fare")
-
-    df.show()
-
-    // Save output as Parquet (for next stage)
-    df.write.mode("overwrite").parquet("data/bronze_output/")
-
-    spark.stop()
-    println("✅ Bronze stage complete")
-  }
+  val inputPath = "data/raw/yellow_tripdata_2025-01.parquet"
+  val bronzeOut = "data/bronze_output/yellow_tripdata_2025_01/"
+  val summaryOutput = "data/bronze_output/_run_summary.json"
 }
