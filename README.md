@@ -20,10 +20,10 @@ We use **public NYC Taxi data** as the example dataset.
 
 ## Why You Need to Load the Data
 
-The data files (Parquet + CSV) are **too large to store on GitHub** — GitHub limits file size to 50 MB.  
+The data files (Parquet + CSV) are **too large to store on GitHub.** GitHub limits file size to 50 MB.  
 That’s why each collaborator must download them **locally** before running the code.
 
-The script `scripts/fetch_data.sh` automates this for you — it:
+The script `scripts/fetch_data.sh` automates this for you. it:
 1. Creates a `data/raw/` folder if it doesn’t exist.  
 2. Downloads:
    - `yellow_tripdata_2025-01.parquet` (NYC trip records)
