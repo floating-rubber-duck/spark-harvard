@@ -1,29 +1,23 @@
-# --- sbt build ---
+# ---- build artifacts ----
 target/
-project/target/
-project/project/
+**/target/
+*.jar
 *.class
 *.log
-*.tmp
 
-# --- raw & outputs under root /data ---
+# ---- data (covers both data/ and data-pipelines/data/) ----
 data/**
 !data/**/.keep
 !data/**/README.md
 
-# --- artifacts ---
-*.jar
+data-pipelines/data/**
+!data-pipelines/data/**/.keep
+!data-pipelines/data/**/README.md
 
-# --- IDE / OS junk ---
+# ---- IDE / OS junk ----
 .metals/
 .vscode/
 .idea/
+.bloop/
 .DS_Store
 Thumbs.db
-.bloop/
-logs/
-out/
-.cache/
-.history/
-dist/
-bin/

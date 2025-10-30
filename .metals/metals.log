@@ -7632,3 +7632,7 @@ SEVERE: A severe compiler error occurred, full details of the error can be found
 Oct 30, 2025 2:09:17 PM scala.meta.internal.pc.CompilerAccess handleError
 SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/zacharygacer/Documents/python_de/spark-harvard/.metals/.reports/metals-full/2025-10-30/r_compiler-error_14-09-17-814.md
 2025.10.30 14:09:23 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/src/main/scala/bronze/yellow_trips_bronze.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.30 17:17:35 WARN  no build target for: /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt
+2025.10.30 17:17:35 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.30 17:17:35 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.30 17:17:35 INFO  no build target found for /Users/zacharygacer/Documents/python_de/spark-harvard/data-pipelines/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
