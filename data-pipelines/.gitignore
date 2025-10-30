@@ -1,39 +1,29 @@
-# Scala / sbt build
-# =====================================================
+# --- sbt build ---
 target/
 project/target/
 project/project/
-.metals/
-.vscode/
-.idea/
-*.log
-
-# =====================================================
-# Spark output & data
-# =====================================================
-# Ignore all real data
-data/
-!data/.keep
-
-# =====================================================
-# Docker & build cache
-# =====================================================
-*.jar
 *.class
 *.log
 *.tmp
-*.swp
-*.iml
+
+# --- raw & outputs under root /data ---
+data/**
+!data/**/.keep
+!data/**/README.md
+
+# --- artifacts ---
+*.jar
+
+# --- IDE / OS junk ---
+.metals/
+.vscode/
+.idea/
 .DS_Store
+Thumbs.db
+.bloop/
 logs/
 out/
 .cache/
 .history/
 dist/
 bin/
-
-# =====================================================
-# OS-specific
-# =====================================================
-Thumbs.db
-.DS_Store
