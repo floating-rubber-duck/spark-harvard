@@ -24,7 +24,7 @@ lazy val root = (project in file("."))
       "org.scala-lang"    % "scala-reflect" % scalaVersion.value
     ),
     // entrypoint (you can override with runMain)
-    Compile / mainClass := Some("bronze.BronzeApp"),
+    Compile / mainClass := Some("runner.PipelineRunner"),
     // smoother local dev
     Compile / fork := true,
     Compile / javaOptions ++= Seq("-Xmx2g")
