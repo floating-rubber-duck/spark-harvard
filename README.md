@@ -208,3 +208,15 @@ That’s all — the Bronze outputs will appear in `data/bronze/`.
 MIT License © 2025 — Zachary Gacer
 
 You are free to use, modify, and share this project for educational or research purposes.
+
+ ,_     _
+ |\\_,-~/
+ / _  _ |    ,--.
+(  @  @ )   / ,-'
+ \  _T_/-._( (
+ /         `. \
+|         _  \ |
+ \ \ ,  /      |
+  || |-_\__   /
+ ((_/`(____,-'
+meow!
