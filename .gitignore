@@ -1,9 +1,33 @@
-# build artifacts
-data-pipelines/target/**
+# =========================================
+# Build artifacts
+# =========================================
+target/
+data-pipelines/target/
+*.class
 *.jar
+*.log
 
-# local data
+# =========================================
+# Local data (raw, bronze, silver, gold)
+# =========================================
 data-pipelines/data/**
+!data-pipelines/data/.gitkeep    # keep folder structure
 
-# keep a placeholder so the folders exist
-!data-pipelines/data/.gitkeep
+# =========================================
+# IDE / system files
+# =========================================
+.vscode/
+.idea/
+*.iml
+.DS_Store
+
+# =========================================
+# sbt / scala cache
+# =========================================
+project/target/
+project/project/
+metals.sbt
+.metals/
+.bloop/
+.scala-build/
+.cache/
