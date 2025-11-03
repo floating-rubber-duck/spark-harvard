@@ -1,46 +1,25 @@
 package runner
 
 object PipelineRunner {
-
-  private def usage(): Unit = {
-    println(
-      """Usage: sbt "run [command]"
-        |Commands:
-        |  all               Run all bronze jobs (default)
-        |  yellow            Run bronze Yellow Tripdata (Trips) job
-        |  taxi              Run bronze Taxi Zone job
-        |  list              Show available jobs
-        |""".stripMargin)
-  }
-
   def main(args: Array[String]): Unit = {
-    val cmd = args.headOption.map(_.toLowerCase).getOrElse("all")
-    val passThrough = args.drop(1)
+    val job         = sys.props.getOrElse("job", "yellow_trips").trim.toLowerCase
+    val passThrough = args
 
-    cmd match {
-      case "all" =>
-        println("[Runner] Running ALL bronze jobs...")
-        bronze.YellowTripdataBronzeTripsApp.main(passThrough) // from yellow_trips_bronze.scala
-        bronze.YellowTripdataBronzeApp.main(passThrough)      // from bronze_taxi_zone.scala
+    job match {
+      case "yellow_trips" | "yellow" | "trips" =>
+        bronze.YellowTripdataBronzeTripsApp.main(passThrough)  // trips job
 
-      case "yellow" | "bronze:yellow" =>
-        println("[Runner] Running Bronze Yellow Tripdata (Trips) job...")
-        bronze.YellowTripdataBronzeTripsApp.main(passThrough)
-
-      case "taxi" | "bronze:taxi" =>
-        println("[Runner] Running Bronze Taxi Zone job...")
-        bronze.YellowTripdataBronzeApp.main(passThrough)
-
-      case "list" =>
-        println("Available jobs:")
-        println(" - yellow  (bronze.YellowTripdataBronzeTripsApp)")
-        println(" - taxi    (bronze.YellowTripdataBronzeApp)")
-
-      case "--help" | "-h" | "help" =>
-        usage()
+      case "taxi_zone" | "zones" | "zone" =>
+        bronze.BronzeTaxiZoneApp.main(passThrough)             // <-- App (not BronzeTaxiZone)
 
       case other =>
-        println(s"[Runner] Unknown command: $other\n"); usage(); sys.exit(2)
+        System.err.println(
+          s"""Unknown job: '$other'
+             |Use:
+             |  -Djob=yellow_trips   to run the Yellow trips bronze job
+             |  -Djob=taxi_zone      to run the Taxi Zone bronze job
+             |""".stripMargin)
+        sys.exit(2)
     }
   }
 }
