@@ -1,3 +1,23 @@
-# Ignore Metals reports and compiler errors
+# ---- build artifacts ----
+target/
+**/target/
+*.jar
+*.class
+*.log
+
+# ---- data (covers both data/ and data-pipelines/data/) ----
+data/**
+!data/**/.keep
+!data/**/README.md
+
+data-pipelines/data/**
+!data-pipelines/data/**/.keep
+!data-pipelines/data/**/README.md
+
+# ---- IDE / OS junk ----
 .metals/
-**/r_compiler-error_*.md
+.vscode/
+.idea/
+.bloop/
+.DS_Store
+Thumbs.db
