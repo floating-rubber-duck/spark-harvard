@@ -1,0 +1,3 @@
+# Ignore Metals reports and compiler errors
+.metals/
+**/r_compiler-error_*.md

@@ -21,3 +21,6 @@ data-pipelines/data/**
 .bloop/
 .DS_Store
 Thumbs.db
+
+
+r_compiler-error.*

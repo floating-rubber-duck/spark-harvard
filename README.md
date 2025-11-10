@@ -108,6 +108,29 @@ bronze_yellow_tripdata/
 ├── _run_summary_counts/
 └── _run_summary_nulls/
 
+### YellowTripdataSilverApp
+- Reads Bronze outputs (`bronze_yellow_tripdata/pass` + taxi zone lookup)
+- Conforms schema, enriches pickup/dropoff geography, and appends KPI-ready columns
+- Writes clean facts to `data/silver/silver_yellow_tripdata/curated/`
+- Emits weekly run summaries under `_run_summary_weekly/`
+
+Run it with either system property or CLI flag:
+
+```
+sbt "-Djob=yellow_trips_silver" run
+# or
+sbt "run --job yellow_trips_silver"
+```
+
+### Preview Silver Outputs
+After the Silver job finishes, inspect the results (no spark-shell needed):
+
+```
+sbt "run --job show_silver"
+# optional overrides:
+# sbt "-DsilverPath=data/silver/silver_yellow_tripdata -DsampleSize=10" "run --job show_silver"
+```
+
 ---
 
 ## Data Quality (DQ) Checks
@@ -207,4 +230,3 @@ That’s all — the Bronze outputs will appear in `data/bronze/`.
 MIT License © 2025 — Zachary Gacer
 
 You are free to use, modify, and share this project for educational or research purposes.
-
